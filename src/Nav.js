@@ -1,11 +1,10 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 // import './App.css';
 import './Nav.css';
 import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse, MDBContainer }
 from 'mdbreact';
 import { BrowserRouter as Router } from 'react-router-dom';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 
 
 // function Nav() {
