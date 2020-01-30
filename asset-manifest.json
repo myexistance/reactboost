@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/reactboost/static/css/main.33910186.chunk.css",
-    "main.js": "/reactboost/static/js/main.7f36255a.chunk.js",
-    "main.js.map": "/reactboost/static/js/main.7f36255a.chunk.js.map",
+    "main.css": "/reactboost/static/css/main.7c75b11b.chunk.css",
+    "main.js": "/reactboost/static/js/main.85074b45.chunk.js",
+    "main.js.map": "/reactboost/static/js/main.85074b45.chunk.js.map",
     "runtime-main.js": "/reactboost/static/js/runtime-main.1cd51ae5.js",
     "runtime-main.js.map": "/reactboost/static/js/runtime-main.1cd51ae5.js.map",
     "static/css/2.28574c60.chunk.css": "/reactboost/static/css/2.28574c60.chunk.css",
-    "static/js/2.e073c2cf.chunk.js": "/reactboost/static/js/2.e073c2cf.chunk.js",
-    "static/js/2.e073c2cf.chunk.js.map": "/reactboost/static/js/2.e073c2cf.chunk.js.map",
+    "static/js/2.1747259a.chunk.js": "/reactboost/static/js/2.1747259a.chunk.js",
+    "static/js/2.1747259a.chunk.js.map": "/reactboost/static/js/2.1747259a.chunk.js.map",
     "index.html": "/reactboost/index.html",
-    "precache-manifest.a4b8b8d18db41ad0d869e07cff261163.js": "/reactboost/precache-manifest.a4b8b8d18db41ad0d869e07cff261163.js",
+    "precache-manifest.a257759fb47e6e2901e3ee6436a3fbcf.js": "/reactboost/precache-manifest.a257759fb47e6e2901e3ee6436a3fbcf.js",
     "service-worker.js": "/reactboost/service-worker.js",
     "static/css/2.28574c60.chunk.css.map": "/reactboost/static/css/2.28574c60.chunk.css.map",
-    "static/css/main.33910186.chunk.css.map": "/reactboost/static/css/main.33910186.chunk.css.map",
-    "static/js/2.e073c2cf.chunk.js.LICENSE": "/reactboost/static/js/2.e073c2cf.chunk.js.LICENSE",
+    "static/css/main.7c75b11b.chunk.css.map": "/reactboost/static/css/main.7c75b11b.chunk.css.map",
+    "static/js/2.1747259a.chunk.js.LICENSE": "/reactboost/static/js/2.1747259a.chunk.js.LICENSE",
     "static/media/mdb.css": "/reactboost/static/media/arrow_right.8ef6a08c.svg",
     "static/media/Image.css": "/reactboost/static/media/Yeezyslate.27c2bdaa.jpg",
-    "static/media/all.min.css": "/reactboost/static/media/fa-solid-900.f6121be5.woff2",
-    "static/media/logo.svg": "/reactboost/static/media/logo.5d5d9eef.svg"
+    "static/media/all.min.css": "/reactboost/static/media/fa-solid-900.f6121be5.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.1cd51ae5.js",
     "static/css/2.28574c60.chunk.css",
-    "static/js/2.e073c2cf.chunk.js",
-    "static/css/main.33910186.chunk.css",
-    "static/js/main.7f36255a.chunk.js"
+    "static/js/2.1747259a.chunk.js",
+    "static/css/main.7c75b11b.chunk.css",
+    "static/js/main.85074b45.chunk.js"
   ]
 }
