@@ -6,22 +6,9 @@ import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNav
 from 'mdbreact';
 import { BrowserRouter as Router } from 'react-router-dom';
 
+
 // function Nav() {
-//   return (
-//     <nav>
-//     <h2>React Boost </h2>
-//     <ul>
-//     <li href="">Home</li>
-//     <li>Release</li>
-//     <li>Contact</li>
-//     <li>Contact</li>
-//     <li>Contact</li>
-//     <li>Contact</li>
-//     </ul>
-//
-//     </nav>
-//   );
-// }
+
 class Nav extends Component {
   state = {
     collapseID: ''
@@ -57,7 +44,7 @@ class Nav extends Component {
                     <MDBNavLink to='#!'>Home</MDBNavLink>
                   </MDBNavItem>
                   <MDBNavItem>
-                    <MDBNavLink to='#!'>Link</MDBNavLink>
+                    <MDBNavLink to='#!'>Gallery</MDBNavLink>
                   </MDBNavItem>
                   <MDBNavItem>
                     <MDBNavLink to='#!'>Contact</MDBNavLink>
@@ -66,8 +53,15 @@ class Nav extends Component {
               </MDBCollapse>
             </MDBContainer>
           </MDBNavbar>
+
+
         </MDBContainer>
       </Router>
+
+
+
+
+
     );
   }
 }

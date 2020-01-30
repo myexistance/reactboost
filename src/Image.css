@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+
+}
+.bg {
+  background-image: url("./Yeezyslate.jpg");
+  height: 30vh;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ img {
+   max-width: 100%;
+ }
