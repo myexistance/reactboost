@@ -8,6 +8,7 @@ import { MDBMask, MDBView, MDBContainer, MDBRow, MDBCol } from "mdbreact";
 // import App from './App';
 import Nav from './Nav';
 import Image from './Image';
+import Gallery from './Gallery';
 
 
 
@@ -18,6 +19,7 @@ class App extends Component {
       <div className="container">
         <Nav />
         <Image />
+        <Gallery />
       </div>
       </MDBContainer>
 
