@@ -13,7 +13,7 @@ class Image extends Component {
         <MDBRow className="mt-12">
           <MDBCol md="12">
 
-          <img src={Slate} rounded />
+          <img src={Slate} rounded id="Image" />
 
 
 

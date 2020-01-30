@@ -5,6 +5,7 @@ import './Nav.css';
 import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse, MDBContainer }
 from 'mdbreact';
 import { BrowserRouter as Router } from 'react-router-dom';
+import { Link, animateScroll as scroll } from "react-scroll";
 
 
 // function Nav() {
@@ -21,6 +22,11 @@ class Nav extends Component {
   };
 
   render() {
+
+
+
+
+
     return (
       <Router>
         <MDBContainer>
@@ -40,11 +46,25 @@ class Nav extends Component {
                 navbar
               >
                 <MDBNavbarNav left>
-                  <MDBNavItem active>
-                    <MDBNavLink to='#!'>Home</MDBNavLink>
+                  <MDBNavItem>
+                  <Link activeClass="active"
+                        to="Image"
+                        spy={true}
+                        smooth={true}
+                        offset={0}
+                        duration= {700}>
+                    <MDBNavLink to='#!'>Latest release</MDBNavLink>
+                  </Link>
                   </MDBNavItem>
                   <MDBNavItem>
+                  <Link activeClass="active"
+                        to="Gallery"
+                        spy={true}
+                        smooth={true}
+                        offset={-50}
+                        duration= {700}>
                     <MDBNavLink to='#!'>Gallery</MDBNavLink>
+                    </Link>
                   </MDBNavItem>
                   <MDBNavItem>
                     <MDBNavLink to='#!'>Contact</MDBNavLink>

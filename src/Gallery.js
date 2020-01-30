@@ -41,7 +41,7 @@ class Gallery extends Component {
     const { photoIndex, isOpen } = this.state;
     return (
       <MDBContainer>
-        <div className="mdb-lightbox no-margin">
+        <div className="mdb-lightbox no-margin" id="Gallery">
           <MDBRow>
             <MDBCol md="4">
               <figure>

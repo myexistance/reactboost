@@ -4,7 +4,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css'; import
 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import { MDBMask, MDBView, MDBContainer, MDBRow, MDBCol } from "mdbreact";
-
+import './App.css';
 // import App from './App';
 import Nav from './Nav';
 import Image from './Image';
@@ -13,12 +13,16 @@ import Gallery from './Gallery';
 
 
 class App extends Component {
+
+
   render() {
     return (
       <MDBContainer>
       <div className="container">
         <Nav />
+        <h2>Latest release</h2>
         <Image />
+        <h2>Gallery</h2>
         <Gallery />
       </div>
       </MDBContainer>
