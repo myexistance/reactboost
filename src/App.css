@@ -7,8 +7,17 @@
   pointer-events: none;
 }
 
-h2 {
-  padding-left: 20px;
+h6{
+  padding-left: 46px;
+  font-family: 'Press Start 2P';
+}
+
+Nav {
+  margin-bottom: 50px;
+}
+
+Image {
+  margin-bottom: 100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

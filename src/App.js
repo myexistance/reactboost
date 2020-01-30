@@ -20,10 +20,14 @@ class App extends Component {
       <MDBContainer>
       <div className="container">
         <Nav />
-        <h2>Latest release</h2>
+        <h6>Latest release</h6>
         <Image />
-        <h2>Gallery</h2>
+        <h6>Gallery</h6>
         <Gallery />
+        <hr />
+        <div>
+        <p>Copyright © 2020 by Joon Yoon</p>
+        </div>
       </div>
       </MDBContainer>
 

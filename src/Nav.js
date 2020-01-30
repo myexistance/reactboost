@@ -51,7 +51,7 @@ class Nav extends Component {
                         to="Image"
                         spy={true}
                         smooth={true}
-                        offset={0}
+                        offset={-55}
                         duration= {700}>
                     <MDBNavLink to='#!'>Latest release</MDBNavLink>
                   </Link>
