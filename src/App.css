@@ -8,6 +8,7 @@
 }
 
 h6{
+  margin-top: 50px;
   padding-left: 46px;
   font-family: 'Press Start 2P';
 }
@@ -21,7 +22,7 @@ Nav {
 }
 
 Image {
-  margin-bottom: 100px;
+  margin-top: 50px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
