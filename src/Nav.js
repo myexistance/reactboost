@@ -7,6 +7,8 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import { Link } from "react-scroll";
 
 
+
+
 // function Nav() {
 
 class Nav extends Component {
@@ -66,7 +68,7 @@ class Nav extends Component {
                     </Link>
                   </MDBNavItem>
                   <MDBNavItem>
-                    <MDBNavLink to='#!'>Contact</MDBNavLink>
+                    <a href="https://www.yeezysupply.com/archive">Archive</a>
                   </MDBNavItem>
                 </MDBNavbarNav>
               </MDBCollapse>

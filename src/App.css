@@ -21,9 +21,6 @@ Nav {
   margin-bottom: 50px;
 }
 
-Image {
-  margin-top: 50px;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

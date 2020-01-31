@@ -4,7 +4,7 @@ import Lightbox from "react-image-lightbox";
 import "./Gallery.css";
 
 const images = [
-  "https://assets.yeezysupply.com/images/w_900,f_auto,q_auto:sensitive,fl_lossy/8828678101b34e22988dab1201349de3_ce49/YEEZY_SLIDE_ADULTS_BONE_FW6345_FW6345_04_standard.png",
+  "https://assets.yeezysupply.com/images/w_901,f_auto,q_auto:sensitive,fl_lossy/8828678101b34e22988dab1201349de3_ce49/YEEZY_SLIDE_ADULTS_BONE_FW6345_FW6345_04_standard.png",
   "https://assets.yeezysupply.com/images/w_900,f_auto,q_auto:sensitive,fl_lossy/ab587121b2cb41778f8eab1201349e47_ce49/YEEZY_SLIDE_KIDS_BONE_FW6347_FW6347_04_standard.png",
   "https://assets.yeezysupply.com/images/w_900,f_auto,q_auto:sensitive,fl_lossy/379cee6402d949f1bfeeab1201349cdf_ce49/YEEZY_SLIDE_INFANT_BONE_FW6349_FW6349_04_standard.png",
   "https://assets.yeezysupply.com/images/w_900,f_auto,q_auto:sensitive,fl_lossy/92714d79674848529ea0ab12013c612f_ce49/YEEZY_SLIDE_ADULTS_DESERT_SAND_FW6344_FW6344_04_standard.png",
