@@ -54,7 +54,7 @@ class Nav extends Component {
                         smooth={true}
                         offset={-55}
                         duration= {700}>
-                    <MDBNavLink to='#!'>Latest release</MDBNavLink>
+                    <a>Latest release</a>
                   </Link>
                   </MDBNavItem>
                   <MDBNavItem>
@@ -64,11 +64,13 @@ class Nav extends Component {
                         smooth={true}
                         offset={-50}
                         duration= {700}>
-                    <MDBNavLink to='#!'>Gallery</MDBNavLink>
+                    <a>Gallery</a>
                     </Link>
                   </MDBNavItem>
                   <MDBNavItem>
+                  <Link>
                     <a href="https://www.yeezysupply.com/archive">Archive</a>
+                  </Link>
                   </MDBNavItem>
                 </MDBNavbarNav>
               </MDBCollapse>
